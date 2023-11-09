@@ -4,7 +4,7 @@
   },
   "dependencies": {
     "bluebird": "^2.9.21",
-    "connect": "2.8.3",
+    "connect": "3.0.0",
     "esprima-fb": "latest",
     "fs.extra": "latest",
     "glob": "latest",
